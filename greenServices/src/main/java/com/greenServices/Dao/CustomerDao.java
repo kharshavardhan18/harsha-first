@@ -14,7 +14,7 @@ import com.greenServices.entities.SecAccounts;
 
 
 
-// DAO interface
+// DAO interface....
 public interface CustomerDao {
 	
 	

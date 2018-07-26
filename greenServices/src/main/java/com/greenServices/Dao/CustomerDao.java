@@ -14,8 +14,9 @@ import com.greenServices.entities.SecAccounts;
 
 
 
-
+// DAO interface
 public interface CustomerDao {
+	
 	
 	String DB_URL = "jdbc:mysql://localhost:3306/sec_vault?autoReconnect=true&useSSL=false";
 	public Connection getConnection()  throws ClassNotFoundException, SQLException ;

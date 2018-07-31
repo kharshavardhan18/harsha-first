@@ -6,11 +6,15 @@ import java.util.Comparator;
 
 public class AccountListContract{
 	
-	//getId
+	
 	public int getId() {
+		
+		
+		
+		
 		return id;
 	}
-	//setId
+	
 	public void setId(int id) {
 		this.id = id;
 	}
